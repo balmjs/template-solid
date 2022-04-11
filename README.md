@@ -5,7 +5,7 @@
 ## Requirements
 
 ```sh
-yarn global add balm-core@next balm-cli
+yarn global add balm-core@next balm-cli@next
 ```
 
 ```sh
@@ -13,8 +13,8 @@ yarn global add balm-core@next balm-cli
 balm -V
 
 # Output:
-# balm-cli: 2.0.0
-# balm-core: 3.0.0
+# balm-cli: 3.0.1
+# balm-core: 4.5.5
 ```
 
 ## Installation
