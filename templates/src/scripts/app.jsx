@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Solid
+          Hello Solid
         </a>
       </header>
     </div>

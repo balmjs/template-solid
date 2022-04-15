@@ -21,3 +21,6 @@ dist/
 *.ntvs*
 *.njsproj
 *.sln
+
+# Balm file
+balm.env.js
